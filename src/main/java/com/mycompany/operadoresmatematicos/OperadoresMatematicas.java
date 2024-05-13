@@ -8,7 +8,7 @@ public class OperadoresMatematicas {
         // Esto es una prueba para el git, despues lo modificaremos
        
         System.out.println("Ingrese Numeros");   
-     
+        System.out.println("Ingrese su Nombre");
         
     }
     
